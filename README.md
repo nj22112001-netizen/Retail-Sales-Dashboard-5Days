@@ -27,12 +27,11 @@ The dataset contains the following fields:
 - Away From Target %
 
 ## 🛠️ Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Excel Formulas
+excel
+data-analysis
+sales-dashboard
+dashboard
+pivot-table
 
 ## 📈 Dashboard Features
 - Total Sales Analysis
