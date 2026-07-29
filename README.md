@@ -42,8 +42,9 @@ pivot-table
 - Sales Executive Performance
 - Interactive Filters (Slicers)
 
-## 📸 Dashboard Preview
-(Add dashboard screenshot here)
+## 📸Dashboard Preview
+
+![Retail Sales Dashboard](Screenshot%202026-07-29%20145421.png)
 
 ## 💡 Key Insights
 - Evaluated sales performance of each sales executive.
